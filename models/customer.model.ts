@@ -1,5 +1,5 @@
 export interface ICustomer {
-    _id?: number;
+    _id?: string;
     company_name: string;
     contact_firstname: string;
     contact_lastname: string;
